@@ -1,4 +1,4 @@
- # Build TODO App with Redux and React JS
+ # TODO App - React JS
 
 This repository contains code for Todo app with react-redux.
 
